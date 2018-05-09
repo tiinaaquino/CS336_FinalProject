@@ -1,4 +1,14 @@
-# CS336_FinalProject
+# CS336 Final Project
 
-## Project Plan
-Finding active and inactive computers on your Network and will display their activity info
+## Discovery
+This is a Layer 2 network tool that discovers active computers on the LAN.
+
+## Required Tools
+Scapy
+Raspberry Pi
+
+
+## Usage
+```
+python ./discovery.py
+```
